@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Stefannieuwenburg/triptreasure-vite-tailwind",
+  "homepage": "https://Stefannieuwenburg.github.io/triptreasure-vite-tailwind/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
